@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+passlib[bcrypt]
+python-jose[cryptography]
+google-genai
+python-dotenv
+pandas
+openpyxl
+httpx
+uvloop
+
